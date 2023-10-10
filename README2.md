@@ -9,11 +9,9 @@ FLOWCHART
 OUTPUT
 ![WhatsApp Image 2023-10-10 at 09 48 18 (2)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/bb763e67-a196-4988-a2a9-296db3a1d4f9)
 
-Program
-![WhatsApp Image 2023-10-10 at 09 48 18 (3)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/2f329adb-2483-471f-a09b-5d906e4dec0c)
-![WhatsApp Image 2023-10-10 at 09 48 18 (4)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/b0e38b23-ccdc-42a9-bb6f-e74656e71f7d)
-![WhatsApp Image 2023-10-10 at 09 48 18 (5)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/6fb22023-a2f3-4bbd-8a12-d7b49311de28)
-![WhatsApp Image 2023-10-10 at 09 48 18 (6)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/76fc228b-bcdd-4e30-add5-cfd27dac101a)
 
-OUTPUT
+OUTPUT PROGRAM PYTHON
 ![WhatsApp Image 2023-10-10 at 10 25 28 (1)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/b87a2564-8f68-4d01-bc9d-bd21392d41f1)
+![WhatsApp Image 2023-10-10 at 10 25 28 (3)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/f50b37af-32fa-469c-a3b3-7fa1ce76ae34)
+![WhatsApp Image 2023-10-10 at 10 25 28 (4)](https://github.com/raishaaulia/raisha_auliana/assets/144971854/5b31e6e1-96c6-4e0c-90ac-d4837013cfcf)
+![WhatsApp Image 2023-10-10 at 10 46 24](https://github.com/raishaaulia/raisha_auliana/assets/144971854/c35b25fd-5e70-4d4e-937e-b500f7fe3096)
